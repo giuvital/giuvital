@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 **I'm Giullia**. 
 
@@ -6,12 +6,12 @@
 - 📚 Future Systems Analyst.
 - 💻 I’m currently a Developer Advocate Intern @ IBM 👁️🐝Ⓜ️.
 
-## Skills
+### Skills
 - ⚙️ Python, Java, JS
 - 🛠️ GitHub, Postman, VSCode, Photoshop, InDesign, Illustrator
 - ☁️ IBM Cloud
 
-## Languages
+### Languages
 - 🇧🇷 Portuguese
 - 🇺🇸 English
 
