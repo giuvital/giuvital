@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**giuvital/giuvital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Giullia**. 
 
-Here are some ideas to get you started:
+- 🇧🇷 Brazilian. 
+- 📚 Future Systems Analyst.
+- 💻 I’m currently a Developer Advocate Intern @ IBM 👁️🐝Ⓜ️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- ⚙️ Python, Java, JS
+- 🛠️ GitHub, Postman, VSCode, Photoshop, InDesign, Illustrator
+- ☁️ IBM Cloud
+- 💻 Windows, Mac
+
+## Languages
+- 🇧🇷 Portuguese
+- 🇺🇸 English
+
+## Contact me
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/giullia-vital/), [Email](mailto:giullia.vital@gmail.com).
+
+
+✨
