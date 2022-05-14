@@ -4,12 +4,12 @@
 
 - 🇧🇷 Brazilian. 
 - 📚 Future Systems Analyst.
-- 💻 I’m currently a Developer Advocate Intern @ IBM 👁️🐝Ⓜ️.
+- 💻 I’m currently a Solutions Architect Intern @ AWS.
 
 ### Skills
 - ⚙️ Python, Java, JS
 - 🛠️ GitHub, Postman, VSCode, Photoshop, InDesign, Illustrator
-- ☁️ IBM Cloud
+- ☁️ AWS, IBM Cloud
 
 ### Languages
 - 🇧🇷 Portuguese
