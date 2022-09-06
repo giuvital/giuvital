@@ -17,6 +17,6 @@
 
 ------------------
 
-- 📫 How to reach me: [Portfolio](https://portfolio-giu.azurewebsites.net/), [LinkedIn](https://www.linkedin.com/in/giullia-vital/), [Email](mailto:giullia.vital@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/giullia-vital/), [Email](mailto:giullia.vital@gmail.com).
 
 
