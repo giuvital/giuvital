@@ -3,13 +3,13 @@
 **I'm Giullia**. 
 
 - 🇧🇷 Brazilian. 
-- 📚 Future Systems Analyst.
-- 💻 I’m currently a Solutions Architect Intern @ AWS.
+- 💻 I’m currently a Solutions Architect @ Itau.
 
 ### Skills
+- ☁️ AWS, Google Cloud, IBM Cloud
 - ⚙️ Python, Java, JS
 - 🛠️ GitHub, Postman, VSCode, Photoshop, InDesign, Illustrator
-- ☁️ AWS, IBM Cloud
+
 
 ### Languages
 - 🇧🇷 Portuguese
